@@ -11,7 +11,7 @@
             //  Block Editor:
             //  [wp-varquery type="post" status"publish" orderby="rand" per_page="15"]
             //  or in your theme - Plugin
-            //  echo do_shortcode('[wp-varquery type="post" status"publish" orderby="rand" per_page="15"]')
+            //  echo do_shortcode('[wp-varquery type="post" status"publish" orderby="rand" per_page="15"]');
 
     ?>
 </body>
